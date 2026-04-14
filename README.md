@@ -4,3 +4,6 @@
 
 ## V 11
 * Vi har bestämd färger då detta var våra bestämda resultat [färger](https://coolors.co/00293d-f7edde-598db1-931621) sen har vi pratat med om layouten och bestämt temat  på tjänsten då vi valde bilmekaniker som tjänst och gör webbplatsen baserad på det. Vi ska kolla på hur loggan ska se ut nästa vecka men har bestänt lite om utseendet och kollat på den denna veckan*
+
+## V 16 
+* Jag har crashoutat idag och ska fixa om oss sidan och blivit faktiskt litad på och skickades coderna till mig eller dem delades iallafll med mig * 
