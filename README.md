@@ -12,7 +12,7 @@
 *Sjuk*
 
 ## V 14 
-*Vi blev klara med allt inför och vi har börjat skriva koden till hemsidan, eller rättare sagt Ville har börjat. Jag kollar på det han gör och försöker lära mig av honom då jag ville se hur han ska börja så att jag kan fortsätta efter han och förhoppningsvis göra en egen sida i vår sida framöver i projektet. * 
+*Vi blev klara med allt inför och vi har börjat skriva koden till hemsidan, eller rättare sagt Ville har börjat. Jag kollar på det han gör och försöker lära mig av honom då jag ville se hur han ska börja så att jag kan fortsätta efter han och förhoppningsvis göra en egen sida i vår sida framöver i projektet.*
 
 ## V 15 
 *PÅSKLOV*
