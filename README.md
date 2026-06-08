@@ -18,8 +18,7 @@
 *PÅSKLOV*
 
 ## V 16 
-*Jag har crashoutat idag och ska fixa om oss sidan och blivit faktiskt litad på och skickades coderna till mig eller dem delades iallafall med mig vilket jag aldrig skulle tro. Det kändes mer som en utmaning och har lagt tid på detta hemma plus kollat filmer om hur jag ska förbättra min förståelse för boostrap här är styleguiden[styleguiden](https://stenungsundskommun-my.sharepoint.com/:w:/r/personal/henry_frydensbjerg08_skola_stenungsund_se/Documents/Style%20guide%20weebutveckling.docx?d=web4f4c74816444c987e0cc863105dd9c&csf=1&web=1&e=hNfOKl) [moodboard)(<img width="4284" height="5712" alt="Image (1)" src="https://github.com/user-attachments/assets/a9643791-0ba0-41eb-8e8f-5011ed88a982" />
-*
+*Jag har crashoutat idag och ska fixa om oss sidan och blivit faktiskt litad på och skickades coderna till mig eller dem delades iallafall med mig vilket jag aldrig skulle tro. Det kändes mer som en utmaning och har lagt tid på detta hemma plus kollat filmer om hur jag ska förbättra min förståelse för boostrap här är [styleguiden](https://stenungsundskommun-my.sharepoint.com/:w:/r/personal/henry_frydensbjerg08_skola_stenungsund_se/Documents/Style%20guide%20weebutveckling.docx?d=web4f4c74816444c987e0cc863105dd9c&csf=1&web=1&e=hNfOKl) [moodboard](<img width="4284" height="5712" alt="Image (1)" src="https://github.com/user-attachments/assets/a9643791-0ba0-41eb-8e8f-5011ed88a982" />
 
 ## V 17 
 *Idag hade jag svårt med att ladda ner cards på webbsidan från Boostrap och försökte få hjälp av gruppen men de var för upptagna så drog mig till Kenneth, Ja Kenneth du. De tog ett tag att övertala han att hjälpa mig men senare när han visade hur han gjorde förstog jag direkt och kunde på egen hand ladda ner massa saker från Boostrap utan problem. Efter jag fick min hjälp började jag med att ta bilder på alla i gruppen för att lägga till det i Om oss sidan då jag tycker det är mer personligt på de viset.*
